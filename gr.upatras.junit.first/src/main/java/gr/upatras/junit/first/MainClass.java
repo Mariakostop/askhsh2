@@ -6,5 +6,7 @@ public class MainClass {
 		// TODO Auto-generated method stub
 		String test= Subtraction.sub(5, 5);
 		System.out.println(test);
+		test= Subtraction.sub(10, 5);
+		System.out.println(test);
 	}
 }
